@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\jo7hb\Desktop\소스.cpp(16,46): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  Project1.vcxproj -> C:\Users\jo7hb\Desktop\Project1\Debug\Project1.exe
